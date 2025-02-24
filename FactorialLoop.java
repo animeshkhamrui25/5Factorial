@@ -9,5 +9,6 @@ public class FactorialLoop {
         
         System.out.println("Factorial of " + number + " is: " + factorial);
         System.out.println("Animesh Khamrui");
+        System.out.println("I'll kill you");
     }
 }
